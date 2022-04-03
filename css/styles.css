@@ -3,67 +3,63 @@ body {
     color: #757575;
     font-style: normal;
     font-family: 'Roboto', sans-serif;
-}
-}
-.link {
+  }
+  .link {
+      text-decoration: none;
+  }
+  .contacts-item {
     text-decoration: none;
-}
-.contacts-item {
-    text-decoration: none;
-}
-ul {
+  }
+  ul {
     list-style: none;
-}
-/* Logo */
-.logo {
+  } 
+  /* Logo */
+  .logo {
     color: #212121;
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
-font-size: 26px;
-line-height: 1.19;
-letter-spacing: 0.03em;
-text-decoration: none;
-}
-.logo > .accent {
-color: #2196F3;
-
-}
-.logo:focus {
-color: #2196F3;
-}
-/* Navigation */
-.site-nav a {
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  }
+  .logo > .accent {
+  color: #2196F3;
+  
+  }
+  .logo:focus {
+  color: #2196F3;
+  }
+  /* Navigation */
+  .site-nav a {
     color: #212121;
-}
- nav > ul {
-font-weight: 500;
-font-size: 14px;
-line-height: 1.14;
-letter-spacing: 0.02em;
-}
-.site-nav {
-    text-decoration: none;
-}
-.site-nav .link.current {
+  }
+  nav > ul {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  }
+  .site-nav .link.current {
     color: #2196F3;
-}
-.site-nav .link:hover,
-.site-nav .link:focus {
+  }
+  .site-nav .link:hover,
+  .site-nav .link:focus {
     color: #2196F3;
-}
-.contacts-item {
-color: #757575;
-font-weight: 500;
-font-size: 14px;
-line-height: 1.19;
-letter-spacing: 0.02em;
-}
-.contacts-item:hover,
-.contacts-item:focus {
+  }
+  .contacts-item {
+  color: #757575;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.19;
+  letter-spacing: 0.02em;
+  }
+  .contacts-item:hover,
+  .contacts-item:focus {
     color: #2196F3;
-}
-/* Hero */
+  }
 
+  /* ========HERO========== */
 .hero .hero-title {
     color: #FFFFFF;
     background-color: #2F303A;
@@ -88,9 +84,7 @@ letter-spacing: 0.06em;
 cursor: pointer;
 }
 /* Section-middle*/
-.section-middle {
-    background-color: #E5E5E5;
-}
+
 .title {
     color: #212121;
 font-weight: 700;
@@ -137,7 +131,22 @@ letter-spacing: 0.03em;
 footer {
     background-color: #2F303A;
 }
-
+.logo-footer {
+    color: #F5F4FA;;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  }
+  .logo-footer > .accent {
+  color: #2196F3;
+  
+  }
+  .logo-footer:focus {
+  color: #2196F3;
+  }
 .address     {
     color: #FFFFFF;
 font-weight: 400;
@@ -155,17 +164,4 @@ line-height: 1.71;
 letter-spacing: 0.03em;
 }
 
-
-/* Web  #2196F3;*/
-/* main black  #757575;  */
-/*заголовок окна #FFFFFF*/
-/* телефон и абзацы #212121; */
-/* contact footer rgba(255, 255, 255, 0.6);*/
-/*background header #FFFFFF;*/
-/* background 1 #2F303A;*/
-/*backhround наша команда  #F5F4FA;*/
-/* backgrond main information*/
-/*
-
-*/
 
