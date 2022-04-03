@@ -1,0 +1,170 @@
+body {
+    background-color: white;
+    color: #757575;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+}
+}
+.link {
+    text-decoration: none;
+}
+.contacts-item {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+/* Logo */
+.logo {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+font-size: 26px;
+line-height: 1.19;
+letter-spacing: 0.03em;
+text-decoration: none;
+}
+.logo > .accent {
+color: #2196F3;
+
+}
+.logo:focus {
+color: #2196F3;
+}
+/* Navigation */
+.site-nav a {
+    color: #212121;
+}
+ nav > ul {
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+}
+.site-nav {
+    text-decoration: none;
+}
+.site-nav .link.current {
+    color: #2196F3;
+}
+.site-nav .link:hover,
+.site-nav .link:focus {
+    color: #2196F3;
+}
+.contacts-item {
+color: #757575;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.19;
+letter-spacing: 0.02em;
+}
+.contacts-item:hover,
+.contacts-item:focus {
+    color: #2196F3;
+}
+/* Hero */
+
+.hero .hero-title {
+    color: #FFFFFF;
+    background-color: #2F303A;
+font-weight: 900;
+font-size: 44px;
+line-height: 1.36;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+}
+/* button-hero*/
+.button {
+    color: #FFFFFF;
+    background-color: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+font-weight: 700;
+font-size: 16px;
+line-height: 1.88;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+cursor: pointer;
+}
+/* Section-middle*/
+.section-middle {
+    background-color: #E5E5E5;
+}
+.title {
+    color: #212121;
+font-weight: 700;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
+
+.features {
+font-weight: 400;
+font-size: 14px;
+line-height: 1.7;
+letter-spacing: 0.03em;
+}
+.section-title {
+    color: #212121;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.16;
+text-align: center;
+letter-spacing: 0.03em;
+}
+
+/*TEAM*/
+.section-team {
+    background-color: #F5F4FA;
+}
+.team-list {
+    color: #212121;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.19;
+letter-spacing: 0.03em;
+}
+.section-team p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+}
+
+/* FOOTER*/
+footer {
+    background-color: #2F303A;
+}
+
+.address     {
+    color: #FFFFFF;
+font-weight: 400;
+font-size: 14px;
+line-height: 1.71;
+letter-spacing: 0.03em;
+font-style: normal;
+}
+
+.contact-footer {
+    color: rgba(255, 255, 255, 0.6);
+font-weight: 400;
+font-size: 14px;
+line-height: 1.71;
+letter-spacing: 0.03em;
+}
+
+
+/* Web  #2196F3;*/
+/* main black  #757575;  */
+/*заголовок окна #FFFFFF*/
+/* телефон и абзацы #212121; */
+/* contact footer rgba(255, 255, 255, 0.6);*/
+/*background header #FFFFFF;*/
+/* background 1 #2F303A;*/
+/*backhround наша команда  #F5F4FA;*/
+/* backgrond main information*/
+/*
+
+*/
+
